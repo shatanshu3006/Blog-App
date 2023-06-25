@@ -41,5 +41,5 @@
   "devDependencies": {
     "react-router-dom": "^6.13.0"
   },
-  "proxy": "https://react-crud-nazc.onrender.com/api/"
+  "proxy": "http://react-crud-nazc.onrender.com/api/"
 }
