@@ -14,7 +14,8 @@
   "description": "My blog rest api",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "build": "npm i"
   },
   "author": "Deepak Yadav",
   "license": "ISC"
